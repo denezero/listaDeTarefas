@@ -64,5 +64,6 @@ O modelo de inserção de uma tarefa deve ser conforme abaixo:
 ### Notas
 
 _startAt && endAt_ devem ser no formato  *yyyy-mm-ddTHH:mm:ss*
+<br>
 _idUser_ É fornecido pelo H2 no momento do post
 
