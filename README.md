@@ -1,4 +1,4 @@
-# Aplicação de Gerenciamento de Vagas de RH
+# Aplicação de Lista de tarefas
 
 Esta é uma aplicação Spring Boot que permite o cadastramento de tarefas.
 
@@ -13,7 +13,7 @@ Esta é uma aplicação Spring Boot que permite o cadastramento de tarefas.
 1. Clone o repositório:
 
    ```shell
-   git clone https://github.com/danileao/gestao_vagas_rocket.git
+   git clone https://github.com/denezero/listaDeTarefas
    ```
 
 2. Configure o banco de dados editando o arquivo application.properties e fornecendo as configurações necessárias:
